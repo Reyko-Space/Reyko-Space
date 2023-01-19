@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello (⌒‿⌒), I'm Camila
+# Hi (⌒‿⌒), I'm Camila
 Mechatronics engineer | DevOps | Researcher
 
 ## 🦾Tech Stack
