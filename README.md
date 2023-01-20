@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👩🏻‍🎓Graduate in mechatronics engineering
 - 📖Currently studing cloud development and DevOps tools
 - ⚙Engineering and technology researcher
+- 📫Connect with me: **reyko.yamada@outlook.com**
 
 ## 🦾Tech Stack
 #### Programming Languages
