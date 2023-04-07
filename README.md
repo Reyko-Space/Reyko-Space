@@ -56,6 +56,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-## 📌Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyko-space&show_icons=true&locale=en&layout=compact" alt="reyko-space" /></p>
